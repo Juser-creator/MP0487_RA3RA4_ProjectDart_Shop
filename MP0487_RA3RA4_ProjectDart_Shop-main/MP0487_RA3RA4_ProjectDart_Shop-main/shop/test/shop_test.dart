@@ -20,7 +20,7 @@ void main() {
       final expected = AppConstants.defaultLaptopPrice + AppConstants.defaultSmartphonePrice + AppConstants.defaultHeadphonesPrice;
       expect(calculateSubtotal(cart), closeTo(expected, 0.01));
     });
-
+    
     test('#3. getDiscountRate should return correct rates', () {
       expect(getDiscountRate(0), AppConstants.noDiscountRate);
       expect(getDiscountRate(2), AppConstants.discountTier2Rate);
