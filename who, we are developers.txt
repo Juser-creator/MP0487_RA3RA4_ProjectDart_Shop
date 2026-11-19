@@ -1,0 +1,18 @@
+who, we are developers
+
+when we work in delevpopement and in maintanence, we need to find the problema and fix it we have to work with other ppl codes.
+
+
+where we're working front end and backend, we are working fullstack means, front end and bacck end, working with both sides.
+
+
+
+hotkeys 
+
+ctrl + p para buscar fixero
+
+
+
+1 21 problems encontrar donde pone eso de que hay 21 problemas
+2  encontrar el primer error
+3 arreglar el error fix it
