@@ -58,7 +58,7 @@ void main() {
       expect(calculateFinalTotal(100.0, 10.0), 90.0);
       expect(calculateFinalTotal(999.99, 99.99), closeTo(900.0, 0.01));
     });
-
+    
     test('#6. findProductById should locate products correctly', () {
       final catalog = [
         Product(
